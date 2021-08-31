@@ -1,5 +1,5 @@
 # kcatreplay
-Replay events on kafkatopic easily.
+Replay events on a kafka topic easily.
 
 To install: 
 1. Clone this repository
